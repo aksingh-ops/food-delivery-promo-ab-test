@@ -1,0 +1,4 @@
+Scenario,Reorder lift (pp),Extra orders/user,Extra revenue/user,Discount cost/user,Net value/user ($),ROI (%)
+A — Observed (null result),-0.0145,-0.0147,-0.51,7.03,-7.54,-107.3
+B — Conservative (2pp lift),2.0,0.06,2.1,7.03,-4.93,-70.1
+C — Optimistic (5pp lift),5.0,0.15,5.25,7.03,-1.78,-25.3

@@ -1,0 +1,3 @@
+experiment_group,total_users,reorder_rate_30d_pct,reorder_rate_60d_pct,reorder_rate_90d_pct,avg_first_order_gross,avg_discount,avg_reorder_value,avg_net_revenue_90d
+control,24956,80.27,80.27,80.27,35.01,0.0,28.1,133.8
+treatment,25044,80.25,80.25,80.25,35.14,7.03,28.08,126.39

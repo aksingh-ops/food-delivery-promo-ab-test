@@ -1,0 +1,16 @@
+Scenario,Monthly new users,Total discount cost/mo ($),Net monthly impact ($),Net annual impact ($)
+A — Observed (null result),10000,70300.0,-75445.0,-905340.0
+A — Observed (null result),50000,351500.0,-377225.0,-4526700.0
+A — Observed (null result),100000,703000.0,-754450.0,-9053400.0
+A — Observed (null result),500000,3515000.0,-3772250.0,-45267000.0
+A — Observed (null result),1000000,7030000.0,-7544500.0,-90534000.0
+B — Conservative (2pp lift),10000,70300.0,-49300.0,-591600.0
+B — Conservative (2pp lift),50000,351500.0,-246500.0,-2958000.0
+B — Conservative (2pp lift),100000,703000.0,-493000.0,-5916000.0
+B — Conservative (2pp lift),500000,3515000.0,-2465000.0,-29580000.0
+B — Conservative (2pp lift),1000000,7030000.0,-4930000.0,-59160000.0
+C — Optimistic (5pp lift),10000,70300.0,-17800.0,-213600.0
+C — Optimistic (5pp lift),50000,351500.0,-89000.0,-1068000.0
+C — Optimistic (5pp lift),100000,703000.0,-178000.0,-2136000.0
+C — Optimistic (5pp lift),500000,3515000.0,-890000.0,-10680000.0
+C — Optimistic (5pp lift),1000000,7030000.0,-1780000.0,-21360000.0

@@ -1,0 +1,2 @@
+baseline_reorder_rate,target_reorder_rate_5pp,planned_mde_pp,effect_size_cohens_h,alpha,power_target,required_n_per_group,actual_n_control,actual_n_treatment,achieved_power_pct,actual_mde_pp,sample_sufficient
+0.8027,0.8527,5.0,0.1327,0.05,0.8,702,24956,25044,100.0,0.88,True

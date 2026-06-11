@@ -1,0 +1,4 @@
+Test,Metric,Control,Treatment,Difference,Test Statistic,P-value,Alpha,Decision,Effect Size (h),Effect Size (rank-biserial),Effect Size (Cramers V)
+Two-proportion z-test,30-day reorder rate,80.27%,80.25%,-0.0145pp,-0.0408,0.516252,0.05,FAIL TO REJECT H0,-0.000364,,
+Mann-Whitney U,Avg reorder order value,$34.96 (median),$35.00 (median),$-0.0139,201117972.0,0.881104,0.1,FAIL TO REJECT H0,,0.000862,
+Chi-square,Frequency tier distribution,53.4% loyal,52.7% loyal,-0.7pp loyal share,2.9994,0.391717,0.05,FAIL TO REJECT H0,,,0.007745
